@@ -1,0 +1,2 @@
+# RehberCekmeUygulamasi
+Bu uygulamada Java ile rehberde kayıtlı olan kişileri uygulamamıza çektik.İzin verirse vermezse durumlarını ve birdaha gösterme butonuna tıklarsa ne olacağını belirttim.Birdaha gösterme butonuna tıklarsa ve sonrasında kullanıcıları çekmeye çalışırsa direk uygulamanın ayarlarına gidip ayar ekranı açılacak.Oradan manuel oalrak izin vericek.Yani bununla uygulamayı gidip tek tek arama durumunda kalmadan direk izin alabilecek.
